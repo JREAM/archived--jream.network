@@ -2,4 +2,4 @@
 fabric==1.13.1
 
 # For an Easy Config
-pyyaml==3.12
+pyyaml==5.4
